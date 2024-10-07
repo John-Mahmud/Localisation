@@ -391,7 +391,7 @@ STR_0994    :Démolir
 STR_0995    :{WINDOW_COLOUR_1}Souhaitez-vous vraiment démolir {STRINGID}?
 STR_0996    :Vue d’ensemble
 STR_0997    :Vue sur la sélection
-STR_0998    :Plus de quais autorisés sur cette attraction
+STR_0998    :Plus aucun quai autorisé sur cette attraction
 STR_0999    :Nécessite un quai
 STR_1000    :La voie ne constitue pas un circuit complet
 STR_1001    :La voie est inadaptée à ce type de train
@@ -855,7 +855,7 @@ STR_1458    :{WINDOW_COLOUR_2}Temps dans le parc : {BLACK}{REALTIME}
 STR_1459    :Type de voie
 STR_1460    :Voie ouverte en forme de {SMALLFONT}U{MEDIUMFONT}
 STR_1461    :Voie fermée en forme de {SMALLFONT}O{MEDIUMFONT}
-STR_1462    :Trop abrupte pour une remontée
+STR_1462    :Trop abrupt pour une remontée
 STR_1463    :Visiteurs
 STR_1464    :Hélice montante (petite)
 STR_1465    :Hélice montante (grande)
@@ -944,7 +944,7 @@ STR_1547    :
 STR_1548    :
 STR_1549    :
 STR_1550    :« Ouah ! »
-STR_1551    :« J’ai l’étrange impression que quelqu’un m’observe »
+STR_1551    :« J’ai l’étrange impression que quelqu’un m’observe... »
 STR_1552    :« Je ne paierai pas si cher pour un ballon de {STRINGID} »
 STR_1553    :« Je ne paierai pas si cher pour une peluche de {STRINGID} »
 STR_1554    :« Je ne paierai pas si cher pour un plan du parc de {STRINGID} »
@@ -970,7 +970,7 @@ STR_1573    :« Je ne paierai pas si cher pour un donut de {STRINGID} »
 STR_1574    :« Je ne paierai pas si cher pour un café de {STRINGID} »
 STR_1575    :
 STR_1576    :« Je ne paierai pas si cher pour du poulet frit de {STRINGID} »
-STR_1577    :« Je ne paierai pas si cher pour un limonade de {STRINGID} »
+STR_1577    :« Je ne paierai pas si cher pour une limonade de {STRINGID} »
 STR_1578    :
 STR_1579    :
 STR_1580    :
@@ -1020,7 +1020,7 @@ STR_1623    :« Je ne paierai pas si cher pour des lunettes de soleil de {STRIN
 STR_1624    :« Je ne paierai pas si cher pour des nouilles au bœuf de {STRINGID} »
 STR_1625    :« Je ne paierai pas si cher pour des nouilles au riz frit de {STRINGID} »
 STR_1626    :« Je ne paierai pas si cher pour une soupe aux raviolis de {STRINGID} »
-STR_1627    :« Je ne paierai pas si cher pour une soupe aux boulettes de viandes de {STRINGID} »
+STR_1627    :« Je ne paierai pas si cher pour une soupe aux boulettes de viande de {STRINGID} »
 STR_1628    :« Je ne paierai pas si cher pour un jus de fruits de {STRINGID} »
 STR_1629    :« Je ne paierai pas si cher pour du lait de soja de {STRINGID} »
 STR_1630    :« Je ne paierai pas si cher pour un Sujeonggwa de {STRINGID} »
@@ -1089,12 +1089,12 @@ STR_1693    :Visiteurs
 STR_1694    :Personnel
 STR_1695    :Revenus et coûts
 STR_1696    :Informations sur les clients
-STR_1697    :Impossible de placer sur une file d’attente
+STR_1697    :Impossible de placer ceci sur une file d’attente
 STR_1698    :Ne peut être placé que sur une file d’attente
 STR_1699    :Trop de personnes dans la partie
-STR_1700    :Embaucher ag. d’entretien
+STR_1700    :Embaucher agent d’entretien
 STR_1701    :Embaucher mécanicien
-STR_1702    :Embaucher ag. de sécurité
+STR_1702    :Embaucher agent de sécurité
 STR_1703    :Embaucher animateur
 STR_1704    :Impossible d’embaucher de nouveaux employés…
 STR_1705    :Licencier cet employé
@@ -1168,7 +1168,7 @@ STR_1778    :{STRINGID} - -
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Costume de panda
 STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Costume de tigre
 STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} Costume d’éléphant
-STR_1782    :{INLINE_SPRITE}{01}{20}{00}{00} Costume romain
+STR_1782    :{INLINE_SPRITE}{01}{20}{00}{00} Costume de soldat romain
 STR_1783    :{INLINE_SPRITE}{02}{20}{00}{00} Costume de gorille
 STR_1784    :{INLINE_SPRITE}{03}{20}{00}{00} Costume de bonhomme de neige
 STR_1785    :{INLINE_SPRITE}{04}{20}{00}{00} Costume de chevalier
@@ -1179,7 +1179,7 @@ STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Costume de pirate
 STR_1790    :Sélectionnez la couleur de l’uniforme pour ce type d’employé
 STR_1791    :{WINDOW_COLOUR_2}Couleur d’uniforme :
 STR_1792    :Va réparer {STRINGID}
-STR_1793    :Se rend à {STRINGID} pour une inspection
+STR_1793    :Se rend à {STRINGID} pour inspection
 STR_1794    :Répare {STRINGID}
 STR_1795    :Répond à l’appel radio
 STR_1796    :Est en panne et nécessite une réparation
@@ -1598,7 +1598,7 @@ STR_2227    :{WINDOW_COLOUR_2}Valeur de l’entreprise : {BLACK}{CURRENCY}
 STR_2228    :{WINDOW_COLOUR_2}Profits du mois dernier provenant de l’alimentation et{NEWLINE} de la vente de marchandise : {BLACK}{CURRENCY}
 STR_2229    :Incl. jusque vertical
 STR_2230    :Voie verticale
-STR_2231    :Maint. frein en chute
+STR_2231    :Maintien freins sur chute
 STR_2232    :Remontée à chaîne
 STR_2233    :Informations sur le parc
 STR_2234    :Messages récents
@@ -1980,7 +1980,7 @@ STR_2769    :Ouvrir parc
 STR_2770    :Fermer parc
 STR_2773    :Fenêtré
 STR_2774    :Plein écran
-STR_2775    :Plein écran (ss. bordure)
+STR_2775    :Plein écran (sans bordure)
 STR_2776    :Langue :
 STR_2777    :{MOVE_X}{10}{STRING}
 STR_2778    :»{MOVE_X}{10}{STRING}
@@ -2062,7 +2062,7 @@ STR_2852    :Voie déjà installée
 STR_2853    :Interdit par les autorités locales !
 STR_2854    :{RED}Vos visiteurs ne peuvent atteindre l’entrée de {STRINGID} !{NEWLINE}Construisez une allée vers l’entrée.
 STR_2855    :{RED}{STRINGID} ne dispose pas d’allée à partir de sa sortie !{NEWLINE}Construisez une allée à la sortie de l’attraction.
-STR_2858    :Impossible de commencer campagne marketing…
+STR_2858    :Impossible de commencer la campagne marketing.
 STR_2861    :{WINDOW_COLOUR_2}Sous licence d’Infogrames Interactive Inc.
 STR_2971    :Palette de couleurs principale
 STR_2972    :Palette de couleurs second. 1
@@ -3585,8 +3585,8 @@ STR_6504    :Au moins une surface de terrain doit être sélectionnée
 STR_6505    :Au moins un bord de terrain doit être sélectionné
 STR_6506    :Grand demi tire-bouchon (gauche)
 STR_6507    :Grand demi tire-bouchon (droite)
-STR_6508    :Demie boucle moyenne (gauche)
-STR_6509    :Demie boucle moyenne (droite)
+STR_6508    :Demi boucle moyenne (gauche)
+STR_6509    :Demi boucle moyenne (droite)
 STR_6510    :Zero-G roll (gauche)
 STR_6511    :Zero-G roll (droite)
 STR_6512    :Grand zero-G roll (gauche)
